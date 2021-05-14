@@ -10,7 +10,7 @@ My name is Kalkidan. I am a Software engineer that believes that one small line 
 - 💬 Ask me about anything. If I don't know it I learn it and an opportunity to learn is a day that isn't wasted.
 - 📫 How to reach me:
     [LinkedIn](https://www.linkedin.com/in/kalkidan-taye/)
-    [Email] (kalkidan.s.taye@gmail.com)
+    Email: kalkidan.s.taye@gmail.com
 - 📔 Read my blogs on [Medium](https://kalkidantaye.medium.com/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am learning how to play the bass, and love to design and look at art. 
