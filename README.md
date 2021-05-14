@@ -7,7 +7,7 @@ My name is Kalkidan. I am a Software engineer that believes that one small line 
 
 - 🔭 I’m currently working on building more applications in React.
 - 🌱 I’m currently learning data structures and algorithms
-- 💬 Ask me about anything. If I don't know it I learn it and an opportunity to learn is a day that isn't wasted.
+- 💬 Ask me about anything. If I don't know it I will learn it and any opportunity to learn is a day that is not wasted.
 - 📫 How to reach me:
     [LinkedIn](https://www.linkedin.com/in/kalkidan-taye/)
     Email: kalkidan.s.taye@gmail.com
