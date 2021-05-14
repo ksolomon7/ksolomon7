@@ -5,7 +5,7 @@
 
 My name is Kalkidan. I am a Software engineer that believes that one small line of code can change the world. 
 
-- 🔭 I’m currently working on building applications in React.
+- 🔭 I’m currently working on building more applications in React.
 - 🌱 I’m currently learning data structures and algorithms
 - 💬 Ask me about anything. If I don't know it I learn it and an opportunity to learn is a day that isn't wasted.
 - 📫 How to reach me:
