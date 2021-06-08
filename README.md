@@ -1,11 +1,7 @@
 ### Hi there 👋
-
-![Screen Shot 2021-02-01 at 6 40 25 PM](https://user-images.githubusercontent.com/57603757/118302006-b2635f00-b4b1-11eb-86dc-48bd7aa76f61.png)
-
-
 My name is Kalkidan. I am a Software engineer that believes that one small line of code can change the world. 
 
-- 🔭 I’m currently working on building more applications in React.
+-  I’m currently working on building more applications in React.
 - 🌱 I’m currently learning data structures and algorithms
 - 📫 How to reach me:
     [LinkedIn](https://www.linkedin.com/in/kalkidan-taye/)
