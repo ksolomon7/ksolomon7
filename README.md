@@ -8,7 +8,7 @@ My name is Kalkidan. I am a Software engineer that believes that one small line 
     Email: kalkidan.s.taye@gmail.com
 - 📔 Read my blogs on [Medium](https://kalkidantaye.medium.com/)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am learning how to play the bass, and love to design and look at art. 
+
 
 <!--**ksolomon7/ksolomon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--/>
 
