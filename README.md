@@ -1,8 +1,7 @@
 ### Hi there 👋
 My name is Kalkidan. I am a Software engineer that believes that one small line of code can change the world. 
 
--  I’m currently working on building more applications in React.
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently in Design systems
 - 📫 How to reach me:
     [LinkedIn](https://www.linkedin.com/in/kalkidan-taye/)
     Email: kalkidan.s.taye@gmail.com
